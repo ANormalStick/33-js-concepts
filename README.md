@@ -42,7 +42,7 @@ Visi šī repo tulkojumi tiks uzskaitīti zemāk:
 - [සිංහල (Sinhala)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
 - [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
 - [Malagasy (Madagascar)](https://github.com/chrys-elrak/33-js-concepts) — Chrys Rakotonimanana
-- [Latvian (Latviešu)](https://github.com/ANormalStick/33-js-concepts) - Jānis Īvāns
+- [Latviešu (Latvian)](https://github.com/ANormalStick/33-js-concepts) - Jānis Īvāns
 
 ---
 
